@@ -1,0 +1,4 @@
+/* Add this CSS in your App.css or main CSS file */
+.transition-all {
+  transition: all 0.5s ease-in-out;
+}
